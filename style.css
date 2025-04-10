@@ -4,9 +4,35 @@
 
 .homepage-title {
     text-align: center;
+    color:aliceblue;
+    font-weight: 100;
 }
 
 
 .recipes {
-    list-style-position: outside;
+    text-align: center;
+    list-style-position: inside;
+    
+}
+
+.color-text {
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.opening-image {
+    text-align: center;
+    height: auto;
+}
+
+.go-back {
+color: aliceblue;
+font-size: larger;
+}
+
+.content {
+    font-size: larger;
+    color: aliceblue;
 }
