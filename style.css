@@ -1,0 +1,12 @@
+#page {
+    background-color: lightsalmon;
+}
+
+.homepage-title {
+    text-align: center;
+}
+
+
+.recipes {
+    list-style-position: outside;
+}
